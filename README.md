@@ -5,4 +5,4 @@ Public website for Sanchez App Design: privacy policies and support pages for th
 
 - `yardroute/privacy.html`, `yardroute/support.html` — the YardRoute app (source of truth: `docs/` in the private
   LawnCarePublic repo; copy changes here).
-- `app-ads.txt` (to add) — AdMob's seller line; must stay at the site root.
+- `app-ads.txt` — AdMob seller line for publisher pub-2099187526177372; must stay at the site root.
